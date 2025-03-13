@@ -1,9 +1,14 @@
 👋 Olá, eu sou Luiz, sou do brasil
+
 👀 tenho conhecimento em python, html, sql e C
+
 🌱 Costumo estudar python e C
+
 📝Atualmente estou cursando o 2º semestre da faculdade de analise e
 desenvolvimento de sistemas
+
 - possuo inglês basico B1
+
 - tenho  muito interese em C++ para jogos
 
 - #=====================================
