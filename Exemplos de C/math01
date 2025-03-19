@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+    float num1,num2, total;
+    /* definido o tipo de dados*/
+     printf("informe o primeiro numero:");
+     scanf("%f", &num1);
+     /* o printf solicita um valor e o scanf vai ler esse valor */
+     printf("\n informe o segundo numero:");
+     scanf("%f", &num2);
+     total = pow(num1,num2);
+     printf("\n %.2f elevado a %.2f é: %2.f",num1,num2,total);
+     return(0);
+}
